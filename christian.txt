@@ -1,9 +1,19 @@
 Esta es la historia de Christian Figueroa
 Un estudiante de leyes 
 
+<<<<<<< HEAD
 
 
 Master 1
 
+=======
+eXPERIMENTO 1 
+
+experimento 2 
+
+Master 1 
+
+Master 2 
+>>>>>>> 6d9eb52152d290ad548f2341a087e26bfaccb5e1
 
 Mañana nos enfocaremos en su vida laboral 
